@@ -1,13 +1,13 @@
-<h1 align="center">Hit me up man!</h1>
+<h1 align="center">Hit me up, man! 👋</h1>
 
 ###
 
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60" alt="django logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="60" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60" alt="django logo"  />
 </div>
 
 ###
@@ -31,7 +31,9 @@
 ###
 
 <picture>
-  <img src="https://raw.githubusercontent.com/KingErik06/KingErik06/output/snake.svg" alt="Snake animation" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KingErik06/KingErik06/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KingErik06/KingErik06/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KingErik06/KingErik06/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
